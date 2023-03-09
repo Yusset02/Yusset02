@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###Horario
+| Hora  | Lunes                           | Martes                          | Miercoles                       | Jueves                          | Viernes                         |   |   |   |   |
+|-------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---|---|---|---|
+| 13:00 | Administración De Base De Datos | Administración De Base De Datos | Administración De Base De Datos | Administración De Base De Datos | Administración De Base De Datos |   |   |   |   |
+| 13:00 | Patrones de diseño de software  | Patrones de diseño de software  | Patrones de diseño de software  | Patrones de diseño de software  | Patrones de diseño de software  |   |   |   |   |
+| 15:00 | Innovación en la tecnología     | Innovación en la tecnología     | Innovación en la tecnología     | Innovación en la tecnología     | Innovación en la tecnología     |   |   |   |   |
+| 16:00 | Taller de investigación II      | Taller de investigación II      | Taller de investigación II      | Taller de investigación II      |                                 |   |   |   |   |
+| 17:00 | Sistemas programables           | Sistemas programables           | Sistemas programables           | Sistemas programables           |                                 |   |   |   |   |
+|       |                                 |                                 |                                 |                                 |                                 |   |   |   |   |
+|       |                                 |                                 |                                 |                                 |                                 |   |   |   |   |
+|       |                                 |                                 |                                 |                                 |                                 |   |   |   |   |
+|       |                                 |                                 |                                 |                                 |                                 |   |   |   |   |
+
